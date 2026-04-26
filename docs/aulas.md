@@ -1,15 +1,13 @@
 
----s
-
-# 📚 Documentação das aulas (docs)
-
-Cria `docs/aulas.md`:
-
-```md
+---
 # 📚 Resumo das Aulas
 
 ## Aula 01 - Introdução
+- Estrutura básica
+- Método main
+- System.out.println
 
-- Primeiro contato com Java
-- Criação do Hello World
-- Entendimento do método main
+## Aula 02 - Entrada e Condicionais
+- Scanner (entrada de dados)
+- if / else
+- Tomada de decisão
