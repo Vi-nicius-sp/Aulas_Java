@@ -1,5 +1,4 @@
 
----
 # 📚 Resumo das Aulas
 
 ## Aula 01 - Introdução
